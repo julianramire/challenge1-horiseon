@@ -1,0 +1,48 @@
+./projectRoutes = ./apiRoutes
+/projects = /ai
+projectRoutes = aiRoutes
+INSIDE THE CONTROLLER/API/INDEX.JS FILE
+Project = AI
+newProject = newAi
+projectData = aiData
+INSIDE THE CONTROLLER/API/apiRoutes.JS FILE
+projects = ais
+/project/:id = /ai/:id
+project = ai
+'project' = 'ai'
+INSIDE THE CONTROLLER/homeRoutes.JS FILE
+crowdfund_db = muse_db
+INSIDE DB/SCHEMA.SQL FILE
+Project = AI
+'./Project' = './AI'
+INSIDE THE MODELS/INDEX.JS FILE
+Project.js = AI.js
+INSIDE THE MODELS FOLDER
+Project = AI
+'project' = 'ai'
+INSIDE THE MODELS/AI.JS FILE
+'/api/projects' = '/api/apiRoutes'
+INSIDE THE PUBLIC/JS/PROFILE.JS FILE
+projectData.json = aiData.json
+INSIDE THE SEEDS FOLDER
+Project = AI
+'./projectData.json' = './aiData.json'
+projectData = aiData
+project = ai
+INSIDE THE SEEDS/SEED.JS FILE
+projects = ais
+project = ai
+"/project/ = "/ai/
+project.id = AI.id
+project.name = AI.name
+project.needed_funding = AI.needed_funding
+project.user.name = AI.user.name
+project.date_created = AI.date_created
+project.description = AI.description
+INSIDE THE VIEWS/HOMEPAGE.HANDLEBARS FILE
+projects = ais
+project = ai
+project.id = AI.id
+project.name = AI.id
+
+
